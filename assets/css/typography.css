@@ -1,0 +1,166 @@
+.font-500 {
+    font-weight: 500;
+}
+
+.font-700{
+    font-weight: 700;
+}
+
+.text-size-54px{
+    font-size: 54px;
+}
+
+.text-size-18px{
+    font-size: 18px;
+}
+
+.text-size-16px{
+    font-size: 16px;
+}
+
+.flex{
+    display: flex;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.bg-primary{
+    background-color: var(--color-primary);
+}
+
+.bg-table-grey{
+    background-color: #EBEDFD;
+}
+
+.bg-table-white{
+    background-color: #FFF;
+}
+
+.pb-7px{
+    padding-bottom: var(--size-vs);
+}
+
+.pt-7px{
+    padding-top: var(--size-vs);
+}
+
+.p-10px{
+    padding: var(--size-sm);
+}
+
+.pt-10px {
+    padding-top: var(--size-sm);
+}
+.pb-10px {
+    padding-bottom: var(--size-sm);
+}
+
+.pr-10px{
+    padding-right: var(--size-sm);
+}
+
+.pl-10px{
+    padding-left: var(--size-sm);
+}
+
+.py-10px{
+    padding-top: var(--size-sm);
+    padding-bottom: var(--size-sm);
+}
+
+.px-10px{
+    padding-left: var(--size-sm);
+    padding-right: var(--size-sm);
+}
+
+.py-14px{
+    padding-top: var(--size-sm2);
+    padding-bottom: var(--size-sm2);
+}
+
+.p-16px{
+    padding: var(--size-md);
+}
+.pb-16px{
+    padding-bottom: var(--size-md);
+}
+.p-20px{
+    padding: var(--size-lg);
+}
+.p-24px{
+    padding: var(--size-xl);
+}
+
+.py-24px{
+    padding-top: var(--size-xl);
+    padding-bottom: var(--size-xl);
+}
+
+.p-32px{
+    padding: var(--size-2xl);
+}
+
+.px-32px{
+    padding-left: var(--size-2xl);
+    padding-right: var(--size-2xl);
+}
+
+.pl-32px{
+    padding-left: var(--size-2xl);
+}
+
+.pl-37px{
+    padding-left: var(--size-2xlll);
+}
+
+.pl-42px{
+    padding-left: var(--size-2xll);
+}
+
+.pl-67px{
+    padding-left: var(--size-2xxl);
+}
+
+.pt-74px{
+    padding-top: var(--size-3xl);
+}
+
+.border-radius-41px{
+    border-radius: 41px;
+}
+
+.border-radius-8px{
+    border-radius: 8px;
+}
+
+.btn-default{
+    border: none;
+    text-decoration: none;
+}
+
+
+.opacity-0-5{
+    opacity: 0.5;
+}
+
+.w-414px{
+    width: 414px;
+}
+
+.h-51px{
+    height: 51px;
+}
